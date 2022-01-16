@@ -10,9 +10,11 @@
     "128": "img/logo_128.png"
   },
   "permissions": [
-    "tabs",
     "https://*/",
-    "http://*/"
+    "http://*/",
+    "tabs",
+    "menus",
+    "activeTab"
   ],
   "background": {
     "scripts": [
