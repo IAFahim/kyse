@@ -1,2 +1,4 @@
 github.com/daspoet/gowinkey v0.0.6 h1:xkG3XK2xkXabhGDSOKy6a8OHZp7C7uuC/Smf73oTc0U=
 github.com/daspoet/gowinkey v0.0.6/go.mod h1:krfGHNVnKEBJ2PXDA2TEAltVDEz5SuCcsu52Yj6KlBo=
+github.com/micmonay/keybd_event v1.1.1 h1:rv7omwXWYL9Lgf3PUq6uBgJI2k1yGkL/GD6dxc6nmSs=
+github.com/micmonay/keybd_event v1.1.1/go.mod h1:CGMWMDNgsfPljzrAWoybUOSKafQPZpv+rLigt2LzNGI=
